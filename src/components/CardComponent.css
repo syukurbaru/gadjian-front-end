@@ -1,0 +1,23 @@
+.card {
+  width: 15.5rem;
+  height: 30rem;
+  overflow: hidden;
+  box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.3);
+}
+
+.title {
+  margin-bottom: 3px;
+}
+
+.img {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  margin: 10px auto;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.text-muted {
+  font-size: 13px;
+}

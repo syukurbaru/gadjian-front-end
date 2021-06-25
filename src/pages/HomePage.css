@@ -1,0 +1,12 @@
+.home {
+  font-family: Poppins;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  background-color: rgb(233, 233, 233);
+}
+
+h2 {
+  color: #23c7c6;
+}
